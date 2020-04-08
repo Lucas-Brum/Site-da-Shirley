@@ -1,0 +1,52 @@
+nav{
+
+    margin-top : 50px;
+    padding-left : auto;
+    padding-right : 150px;
+
+}
+nav .navbar-nav li a{
+    color: rgb(58, 146, 248) !important;
+}
+#sobre{
+    padding : 50px;
+}
+#local{
+    padding : 50px;
+}
+#contato{
+    padding : 50px;
+}
+#serviços{
+    padding : 50px;
+}
+#convenio{
+    padding : 50px;
+}
+h2{
+    margin-bottom : 50px;
+    color:  rgb(58, 146, 248);
+}
+#marca{
+    margin-top : 200px;
+}
+body{
+    background: url('../img/Backgroud.png') center center no-repeat fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: "Times New Roman", Times, serif;
+  }
+.eu{
+    padding: 25px;
+}
+html{
+    scroll-behavior: smooth;
+}
+.inicio{  
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+
+}
